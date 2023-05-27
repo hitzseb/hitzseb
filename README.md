@@ -22,8 +22,8 @@ I'm **Sebastian Hitz**, a Java developer.
 ### Technologies I use:
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"></code>
+<code><img height="30" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/psf/trademarks-faq/Python-logo-notext-rotate-flip.png"></code>
+<code><img height="30" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
