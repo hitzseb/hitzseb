@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Sebastian Hitz**, a Java developer.
+I'm **Sebastian Hitz**, a Java web developer.
 - 📫 How to reach me: [email](mailto:hitzseb@gmail.com)
 - 💬 Ask me about anything
 
