@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Sebastian Hitz**, a Full Stack Web Developer.
+I'm **Sebastian Hitz**, a Fullstack Developer.
 - 📫 How to reach me: [email](mailto:hitzseb@gmail.com)
 - 💬 Ask me about anything
 
