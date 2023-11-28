@@ -33,6 +33,3 @@ I'm **Sebastian Hitz**, a Fullstack Developer.
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></code>
 <code><img height="30" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"></code>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitzseb&layout=compact)
