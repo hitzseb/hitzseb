@@ -1,22 +1,26 @@
 * {
-    font-family: monospace, sans-serif;
-  }
-  
+  font-family: monospace, sans-serif;
+}
+
+p {
+  text-align: justify;
+}
+
+.icon {
+  width: 5rem;
+  height: 5rem;
+  margin: 1rem 2rem 1rem 0rem;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease;
+}
+
+.icon:hover {
+  filter: grayscale(0%);
+}
+
+@media (max-width: 768px) {
   .icon {
-    width: 5rem;
-    height: 5rem;
-    margin:1rem 2rem 1rem 0rem;
-    filter: grayscale(100%);
-    transition: filter 0.3s ease;
+    width: 3rem;
+    height: 3rem;
   }
-  
-  .icon:hover {
-    filter: grayscale(0%);
-  }
-  
-  @media (max-width: 768px) {
-    .icon {
-      width: 3rem;
-      height: 3rem;
-    }
-  }
+}
